@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 Start by cloning the repository.
 
-`https://github.com/vickymarz/hello-rails-back-end.git`
+`https://github.com/kendoriddy/hello-rails-back-end.git`
 
 Navigate to the created folder.
 
@@ -40,7 +40,7 @@ Navigate to the created folder.
 
 ### Install
 
-To install rails, run `gem install rails on your terminal`
+To install rails, run `gem install rails` on your terminal
 
 ### Usage
 
